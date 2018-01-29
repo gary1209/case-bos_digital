@@ -1,44 +1,27 @@
 <!doctype html>
-<html lang="en" style="min-width: 1024px;">
+<html lang="zh-TW">
   <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=1280, initial-scale=1, shrink-to-fit=no">
+    <meta name="viewport" content="width=1200, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" href="css/bootstrap.css">
     <title>BS數位串流媒體</title>
     <script defer src="https://use.fontawesome.com/releases/v5.0.4/js/all.js"></script>
+    <script
+	  src="https://code.jquery.com/jquery-1.7.2.min.js"
+	  integrity="sha256-R7aNzoy2gFrVs+pNJ6+SokH04ppcEqJ0yFLkNGoFALQ="
+	  crossorigin="anonymous"></script>
+    <style type="text/css">
+    	.container{
+    		width: 1170px;
+    	}
+    </style>
   </head>
-  <body>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light" style="padding:0" id="navbar">
-      <div class="container">
-      <img src="images/logo1.png" width="" height="50" alt="">
-      <!-- <span class="navbar-brand mb-0 h1" style="font-weight:bold ">博思數位串流媒體</span> -->
-	  <!-- <a class="navbar-brand mb-0 h1" href="#">Navbar</a> -->
-	  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample08" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-	    <span class="navbar-toggler-icon"></span>
-	  </button>
-
-	  <div class="collapse navbar-collapse justify-content-md-center" id="navbarsExample08">
-        <ul class="navbar-nav">
-          <li class="nav-item ">
-            <a class="nav-link" href="index.html" style="background-color: rgba(0,0,0,.5);color :white;padding: 20px 0; ">&nbsp;&nbsp;&nbsp;&nbsp;首頁&nbsp;&nbsp;&nbsp;&nbsp;</a>
-          </li>
-          <li class="nav-item">
-            <a id="about_us" class="nav-link" style="padding: 20px 8px 20px 8px;" href="about_us.html" >關於博思</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" style="padding: 20px 8px 20px 8px;" href="order_online.html">線上訂購</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" style="padding: 20px 8px 20px 8px;" href="dealer.html">申請經銷</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" style="padding: 20px 8px 20px 8px;" href="contact_us.html">聯絡我們</a>
-          </li>
-          
-        </ul>
-      </div>
-	</div>
-	</nav>
+  <body">
+    <?php
+	include 'navbar.php';
+	?>
+	<script type="text/javascript">$('#index').css("background-color","rgba(0,0,0,.5)");</script>
+    <script type="text/javascript">$('#index').css("color","white");</script>
 
 	<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
 	  <ol class="carousel-indicators">
@@ -71,21 +54,21 @@
         <div class="container">
           <div class="row">
 
-          	<div class="card col-md-4" style="width: 18rem;padding: 35px 35px 35px 35px">
+          	<div class="card col-4" style="width: 18rem;padding: 35px 35px 35px 35px">
 			  <img class="card-img-top" src="images/card-1.png" alt="Card image cap">
 			  <div class="card-body">
 			  	<h5 class="card-title">關於博思</h5>
 			    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
 			  </div>
 			</div>
-			<div class="card col-md-4" style="width: 18rem;padding: 35px 35px 35px 35px">
+			<div class="card col-4" style="width: 18rem;padding: 35px 35px 35px 35px">
 			  <img class="card-img-top" src="images/card-2.png" alt="Card image cap">
 			  <div class="card-body">
 			  	<h5 class="card-title">申請經銷</h5>
 			    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
 			  </div>
 			</div>
-			<div class="card col-md-4" style="width: 18rem;padding: 35px 35px 35px 35px">
+			<div class="card col-4" style="width: 18rem;padding: 35px 35px 35px 35px">
 			  <img class="card-img-top" src="images/card-3.png" alt="Card image cap">
 			  <div class="card-body">
 			  	<h5 class="card-title">聯絡我們</h5>
@@ -106,7 +89,7 @@
 			  <div class="card-body">
 			  	<h5 class="card-title">使用世界上最受歡迎的前端元件庫</h5>
 			    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-			    <a href="#" class="btn btn-primary btn-sm" style="border-radius: 5px; font-size: 0.9em;background-color: grey; border-color: grey;padding: 2px 4px 2px 4px;"><i class="fa fa-plus-circle" aria-hidden="true"></i>More...</a>
+			    <a href="news.php" class="btn btn-primary btn-sm" style="border-radius: 5px; font-size: 0.9em;background-color: grey; border-color: grey;padding: 2px 4px 2px 4px;"><i class="fa fa-plus-circle" aria-hidden="true"></i>More...</a>
 			  </div>
     		</div>
     		<div class="col ">
@@ -133,68 +116,9 @@
         </div>
     </div>
 
-    <div style="background-color: #404040;color:#bfbfbf;" id="footer">
-	    <div class=" container">
-	        <div class="row" style="padding-top: 45px; padding-bottom: 45px;">
-	        	<div class="col-sm-12">
-	        		<a href="about_us.html" style="color:#bfbfbf">關於博思</a>
-	        		<a>&nbsp;&nbsp;|&nbsp;&nbsp;</a>
-	        		<a href="order_online.html" style="color:#bfbfbf">線上訂購</a>
-	        		<a>&nbsp;&nbsp;|&nbsp;&nbsp;</a>
-	        		<a href="dealer.html" style="color:#bfbfbf">申請經銷</a>
-	        		<a>&nbsp;&nbsp;|&nbsp;&nbsp;</a>
-	        		<a href="contact_us.html" style="color:#bfbfbf">聯絡我們</a>
-	        	</div>
-
-	            <div class="col-sm-8">
-	                <div class="row">
-	                    <div class="col-sm-6">
-	                       <p>
-	                            <br><!-- <strong>電話</strong> -->
-	                            <div style="font-size:2em;">
-		                            <i class="fas fa-phone" ></i>
-		                            0908878077
-		                            <br><br>
-	                            </div>
-	                            地址：台北市中山區復興北路179號8F-6<br><br>
-	                            
-	                        </p>
-	                    </div>
-	                    <div class="col-sm-6" "><!-- style="border-right-style:solid; --> 
-	                    	<p>
-	                    	    <br><!-- <strong>E-mail</strong>
-	                            搭乘市民小巴1號， -->
-	                            <div style="font-size:2em;">
-		                            <i class="fas fa-envelope"></i>
-		                            qbtvtw@gmail.com
-		                            <br><br>
-	                            </div>
-	                            
-	                            
-	                        </p>
-	                    </div>
-	                </div>
-	            </div>
-	            <div class=" col-sm-4">
-	            	<br>
-	            	<div class="row">
-	                <div class="col">
-	                    <img src="images/line.png" width="100%">
-	                    <p style="text-align: center;;">LINE</p>
-	                </div>
-	                <div class="col">
-	                    <img src="images/wechat.png" width="100%">
-	                    <p style="text-align: center;">WeChat</p>
-	                </div>
-	                <div class="col">
-	                    <img src="images/facebook.png" width="100%">
-	                    <p style="text-align: center;">Facebook</p>
-	                </div>
-	                </div>
-	            </div>
-	        </div>
-	    </div>
-	</div>
+    <?php
+	include 'footer.php';
+	?>
 	
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->

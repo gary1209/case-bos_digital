@@ -14,7 +14,7 @@ sendLineNotify($initData, $token);
 // echo '<pre>';
 // print_r(sendLineNotify($initData, $token));
 // echo '</pre>';
-echo "<script>alert('傳送成功');location.href ='index.php'</script>";
+echo "<script>alert('傳送成功');location.href ='dealer.php'</script>";
 
 // echo '<meta http-equiv=REFRESH CONTENT=2;url=user.php>';
 function sendLineNotify($initData, $token,$url = 'https://notify-api.line.me/api/notify') {
