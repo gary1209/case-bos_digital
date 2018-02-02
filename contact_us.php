@@ -34,9 +34,9 @@
 	        		<h2>博思數位串流媒體有限公司</h2><br>
 	        		<div style="color:grey;font-size: 1.2rem;">
 	        			<p><i class="fa fa-phone" aria-hidden="true"></i>&nbsp;電話：0908878077</p>
-	        			<p><i class="fa fa-link" aria-hidden="true"></i>&nbsp;賴客服：＠qbtvtw</p>
-	        			<p><i class="fa fa-envelope" aria-hidden="true"></i>&nbsp;電子郵箱：ricky65lue@gmail.com</p>
-	        			<p><i class="fa fa-globe" aria-hidden="true"></i>&nbsp;網址：www.qbtvtw.com</p>
+	        			<p><i class="fa fa-link" aria-hidden="true"></i>&nbsp;賴客服：＠qbtvtw&nbsp;<img src="images/wechat.png" width="90px"></p>
+	        			<p><i class="fa fa-envelope" aria-hidden="true"></i>&nbsp;電子郵箱：qbtvtw@gmail.com</p>
+	        			<p><i class="fa fa-globe" aria-hidden="true"></i>&nbsp;網址：www.bosqbtv.com</p>
 	        			<p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;公司地址：台北市中山區復興北路179號8F-6</p>
 	        			<p>（捷運南京復興站7號出口）</p>
 	        		</div>

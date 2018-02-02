@@ -58,7 +58,7 @@
             <br>
             <hr>
             <p style="color:grey">・顏色：黃黑</p>
-            <p style="color:grey">・型號：QBTV</p>
+            <p style="color:grey">・型號：QB一代</p>
             <p style="color:grey">・功能：4K高清輸出&nbsp;雙頻WIFI&nbsp;H.265硬解碼</p>
           </div>
           
