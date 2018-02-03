@@ -2,8 +2,9 @@
 $name = $_REQUEST["name"];
 $email = $_REQUEST["email"];
 $phone = $_REQUEST["phone"];
+$line = $_REQUEST['line'];
 $message = $_REQUEST["message"];
-$message = "\n".$name."\n". $email."\n". $phone."\n". $message;
+$message = "\n姓名：".$name."\n信箱：". $email."\n電話：". $phone."\nLine：". $line."\n訊息：". $message;
 
 $initData['message'] = $message;
 $token = '797QBGJeRBlTaIrUCVYLct5CY2EEJzabxEC5wu7qmWU';

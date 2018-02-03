@@ -61,6 +61,9 @@
           <div class="form-group">
               <input type="email" style="width: 30%;background-color: #e9ecef" class="form-control input-sm " name="email"  placeholder="輸入電子郵件" data-form-field="Email">
           </div>
+          <div class="form-group">
+              <input  style="width: 30%;background-color: #e9ecef" class="form-control input-sm " name="line"  placeholder="輸入Line_ID" >
+          </div>
           
           <div class="form-group">
               <textarea class="form-control input-sm " style="background-color: #e9ecef" name="message" rows="4" placeholder="申請說明（如申請銷售方式：零售、網路、申請銷售地區等）" data-form-field="Message"></textarea>

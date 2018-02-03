@@ -50,6 +50,9 @@
 			          <div class="form-group">
 			              <input type="tel" class="form-control input-sm " name="phone" placeholder="您的電話" data-form-field="Phone">
 			          </div>
+                <div class="form-group">
+                    <input type="tel" class="form-control input-sm " name="line" placeholder="您的Line_ID" >
+                </div>
 			          
 			          <div class="form-group">
 			              <textarea class="form-control input-sm "  name="message" rows="4" placeholder="您的留言內容" data-form-field="Message"></textarea>

@@ -34,7 +34,9 @@
 	      <img class="d-block w-100" src="images/bos-banner1.jpg" alt="First slide">
 	    </div>
 	    <div class="carousel-item">
-	      <img class="d-block w-100" src="images/bos-banner2.jpg" alt="Second slide">
+	      <a href="order_online.php">
+	      <img class="d-block w-100" src="images/bos-banner2.jpg"  alt="Second slide">
+	      </a>
 	    </div>
 	    <div class="carousel-item">
 	      <img class="d-block w-100" src="images/bos-banner3.jpg" alt="Third slide">
@@ -55,24 +57,24 @@
           <div class="row">
 
           	<div class="card col-4" style="width: 18rem;padding: 35px 35px 35px 35px">
-			  <img class="card-img-top" src="images/card-1.png" alt="Card image cap">
+			  <a href="about_us.php"> <img class="card-img-top" src="images/card-1.png" alt="Card image cap"></a>
 			  <div class="card-body">
 			  	<h5 class="card-title">關於博思</h5>
-			    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+			    <p class="card-text">博思數位致力於QBTV電視機上盒的研發製造，為家庭娛樂帶來更多的視覺體驗</p>
 			  </div>
 			</div>
 			<div class="card col-4" style="width: 18rem;padding: 35px 35px 35px 35px">
-			  <img class="card-img-top" src="images/card-2.png" alt="Card image cap">
+			  <a href="dealer.php"><img class="card-img-top" src="images/card-2.png" alt="Card image cap"></a>
 			  <div class="card-body">
 			  	<h5 class="card-title">申請經銷</h5>
-			    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+			    <p class="card-text">您的加入將是我們經銷網路中獨一無二的亮點</p>
 			  </div>
 			</div>
 			<div class="card col-4" style="width: 18rem;padding: 35px 35px 35px 35px">
-			  <img class="card-img-top" src="images/card-3.png" alt="Card image cap">
+			  <a href="contact_us.php"><img class="card-img-top" src="images/card-3.png" alt="Card image cap"></a>
 			  <div class="card-body">
 			  	<h5 class="card-title">聯絡我們</h5>
-			    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+			    <p class="card-text">如果您在使用博思產品中遇到問題，您可以在這裡提交您的問題，或者請求售後服務</p>
 			  </div>
 			</div>
            

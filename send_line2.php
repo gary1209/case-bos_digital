@@ -1,8 +1,9 @@
 <?php
 $name = $_REQUEST["name"];
 $phone = $_REQUEST["phone"];
+$line = $_REQUEST['line'];
 $message = $_REQUEST["message"];
-$message = "\n".$name."\n". $phone."\n". $message;
+$message = "\n姓名：".$name."\n電話：". $phone."\nline：". $line."\n訊息：".$message;
 
 $initData['message'] = $message;
 $token = 'yuJWsTSwC9Zwh47lnfJFu8LGgeyPy2p6Vf9bldgP1dk';
