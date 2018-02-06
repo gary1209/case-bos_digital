@@ -89,27 +89,27 @@
     		<div class="col                  ">
 			  <img class="card-img-top" src="images/2.png" alt="Card image cap" width="540px">
 			  <div class="card-body">
-			  	<h5 class="card-title">使用世界上最受歡迎的前端元件庫</h5>
-			    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+			  	<h5 class="card-title">【開箱】博思數位QBTV數位電視機上盒，結合網路第四台還有布袋戲迷專屬頻道</h5>
+			    <p class="card-text">博思數位自行研發的QBTV數位電視機上盒，自從開賣以來好評不斷，簡單的操作搭配穩定的訊號</p>
 			    <a href="news.php" class="btn btn-primary btn-sm" style="border-radius: 5px; font-size: 0.9em;background-color: grey; border-color: grey;padding: 2px 4px 2px 4px;"><i class="fa fa-plus-circle" aria-hidden="true"></i>More...</a>
 			  </div>
     		</div>
     		<div class="col ">
     			<div class="">
-			  	<h5 class="card-title">使用世界上最受歡迎的前端元件庫</h5>
-			    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.&nbsp;<a href="#" class="btn btn-primary btn-sm" style="border-radius: 5px; font-size: 0.9em;background-color: grey; border-color: grey;padding: 2px 4px 2px 4px;"><i class="fa fa-plus-circle" aria-hidden="true"></i>More...</a></p>
+			  	<h5 class="card-title">其他最新消息將於近期內發佈</h5>
+			    <p class="card-text">Will update soon~&nbsp;<a href="#" class="btn btn-primary btn-sm" style="border-radius: 5px; font-size: 0.9em;background-color: grey; border-color: grey;padding: 2px 4px 2px 4px;"><i class="fa fa-plus-circle" aria-hidden="true"></i>More...</a></p>
 			    <hr>
 			    
 			    </div>
 			    <div class="">
-			  	<h5 class="card-title">使用世界上最受歡迎的前端元件庫</h5>
-			    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.&nbsp;<a href="#" class="btn btn-primary btn-sm" style="border-radius: 5px; font-size: 0.9em;background-color: grey; border-color: grey;padding: 2px 4px 2px 4px;"><i class="fa fa-plus-circle" aria-hidden="true"></i>More...</a></p>
+			  	<h5 class="card-title">其他最新消息將於近期內發佈</h5>
+			    <p class="card-text">Will update soon~&nbsp;<a href="#" class="btn btn-primary btn-sm" style="border-radius: 5px; font-size: 0.9em;background-color: grey; border-color: grey;padding: 2px 4px 2px 4px;"><i class="fa fa-plus-circle" aria-hidden="true"></i>More...</a></p>
 			    <hr>
 			    
 			    </div>
 			    <div class="">
-			  	<h5 class="card-title">使用世界上最受歡迎的前端元件庫</h5>
-			    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.&nbsp;<a href="#" class="btn btn-primary btn-sm" style="border-radius: 5px; font-size: 0.9em;background-color: grey; border-color: grey;padding: 2px 4px 2px 4px;"><i class="fa fa-plus-circle" aria-hidden="true"></i>More...</a></p>
+			  	<h5 class="card-title">其他最新消息將於近期內發佈</h5>
+			    <p class="card-text">Will update soon~&nbsp;<a href="#" class="btn btn-primary btn-sm" style="border-radius: 5px; font-size: 0.9em;background-color: grey; border-color: grey;padding: 2px 4px 2px 4px;"><i class="fa fa-plus-circle" aria-hidden="true"></i>More...</a></p>
 			    <hr>
 			    
 			    </div>
