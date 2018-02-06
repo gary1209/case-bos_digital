@@ -83,33 +83,33 @@
     </div>
 
     <div  style="background-color:#f2f2f2 "> <!-- #f8f9fa -->
-    	<div class="container" style="height: 520px">
+    	<div class="container" style="height: 720px">
     	<h2 style="padding: 30px 0 30px 0;font-weight: bold;"> 最新消息</h2>
     	<div class="row">
     		<div class="col                  ">
 			  <img class="card-img-top" src="images/2.png" alt="Card image cap" width="540px">
 			  <div class="card-body">
 			  	<h5 class="card-title">【開箱】博思數位QBTV數位電視機上盒，結合網路第四台還有布袋戲迷專屬頻道</h5>
-			    <p class="card-text">博思數位自行研發的QBTV數位電視機上盒，自從開賣以來好評不斷，簡單的操作搭配穩定的訊號</p>
-			    <a href="news.php" class="btn btn-primary btn-sm" style="border-radius: 5px; font-size: 0.9em;background-color: grey; border-color: grey;padding: 2px 4px 2px 4px;"><i class="fa fa-plus-circle" aria-hidden="true"></i>More...</a>
+			    <p class="card-text">能提供4K高清輸出的數位電視機上盒越來越多了，如果想要吸引使用者入手使用，一定要有自己的特色。</p>
+			    <a href="http://hardaway.com.tw/blog/post/45630822" class="btn btn-primary btn-sm" style="border-radius: 5px; font-size: 0.9em;background-color: grey; border-color: grey;padding: 2px 4px 2px 4px;"><i class="fa fa-plus-circle" aria-hidden="true"></i>More...</a>
 			  </div>
     		</div>
     		<div class="col ">
     			<div class="">
-			  	<h5 class="card-title">其他最新消息將於近期內發佈</h5>
-			    <p class="card-text">Will update soon~&nbsp;<a href="#" class="btn btn-primary btn-sm" style="border-radius: 5px; font-size: 0.9em;background-color: grey; border-color: grey;padding: 2px 4px 2px 4px;"><i class="fa fa-plus-circle" aria-hidden="true"></i>More...</a></p>
+			  	<h5 class="card-title">【開箱】QBTV數位電視機上盒，台灣研發，最貼近台灣人的需求！</h5>
+			    <p class="card-text">直接先說整體心得XD，QBTV是台灣自行研發生產，不同於市面上的各種「盒子」，不但訊號源較為穩定，內建的APP頻道是按照第四台排列，也有布袋戲、歌仔戲等本土戲劇分類。&nbsp;<a href="http://u9555kimo.pixnet.net/blog/post/342248771" class="btn btn-primary btn-sm" style="border-radius: 5px; font-size: 0.9em;background-color: grey; border-color: grey;padding: 2px 4px 2px 4px;"><i class="fa fa-plus-circle" aria-hidden="true"></i>More...</a></p>
 			    <hr>
 			    
 			    </div>
 			    <div class="">
-			  	<h5 class="card-title">其他最新消息將於近期內發佈</h5>
-			    <p class="card-text">Will update soon~&nbsp;<a href="#" class="btn btn-primary btn-sm" style="border-radius: 5px; font-size: 0.9em;background-color: grey; border-color: grey;padding: 2px 4px 2px 4px;"><i class="fa fa-plus-circle" aria-hidden="true"></i>More...</a></p>
+			  	<h5 class="card-title">～博思QBTV數位電視機上盒讓我看第四台不用繳費啦～</h5>
+			    <p class="card-text">現在第四台業者有些已經提供光纖網路，也就是說除了上網之外還能看第四台，這個服務是很棒沒錯，不過想想當初那些被電信業者所綁住，暫時還不能轉換的朋友們，難道就沒有辦法看第四台了嗎？&nbsp;<a href="http://deargrass.pixnet.net/blog/post/43901106" class="btn btn-primary btn-sm" style="border-radius: 5px; font-size: 0.9em;background-color: grey; border-color: grey;padding: 2px 4px 2px 4px;"><i class="fa fa-plus-circle" aria-hidden="true"></i>More...</a></p>
 			    <hr>
 			    
 			    </div>
 			    <div class="">
-			  	<h5 class="card-title">其他最新消息將於近期內發佈</h5>
-			    <p class="card-text">Will update soon~&nbsp;<a href="#" class="btn btn-primary btn-sm" style="border-radius: 5px; font-size: 0.9em;background-color: grey; border-color: grey;padding: 2px 4px 2px 4px;"><i class="fa fa-plus-circle" aria-hidden="true"></i>More...</a></p>
+			  	<h5 class="card-title">[開箱] QBTV數位電視機上盒 – 電視直播、看電影、追劇、歡唱一次大滿足！</h5>
+			    <p class="card-text">QBTV 適合一家大小使用的數位電視機上盒，適合家裡長輩看布袋戲、歌仔戲、鄉土劇還可以歡唱，因為有電視直播的功能家中的第四台或是 MOD 就可以停掉啦！&nbsp;<a href="https://kkplay3c.net/qbtv/" class="btn btn-primary btn-sm" style="border-radius: 5px; font-size: 0.9em;background-color: grey; border-color: grey;padding: 2px 4px 2px 4px;"><i class="fa fa-plus-circle" aria-hidden="true"></i>More...</a></p>
 			    <hr>
 			    
 			    </div>
