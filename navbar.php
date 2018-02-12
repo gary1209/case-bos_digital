@@ -7,7 +7,7 @@
 			<div>
 		        <ul class="navbar-nav">
 		          <li class="nav-item ">
-		            <a id="index" class="nav-link" href="index.php" style="padding: 20px 8px 20px 8px; ">&emsp;首頁&emsp;</a>
+		            <a id="index" class="nav-link" href="index.php" style="padding: 20px 8px 20px 8px; ">首頁</a>
 		          </li>
 		          <li class="nav-item">
 		            <a id="about_us" class="nav-link" style="padding: 20px 8px 20px 8px;" href="about_us.php" >關於博思</a>

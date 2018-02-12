@@ -53,7 +53,9 @@
             <h1 style="color:#bf0c0c">NT&nbsp;&nbsp; $4,280</h1>
             <br>
             <br>
-            <a class="btn btn-secondary btn-lg" style="width: 200px; font-size: 1.8rem;" href="https://shopee.tw/ricky65lue"> 立即購買</a>
+            <a class="btn btn-secondary btn-lg" style="width: 280px; font-size: 1.8rem; margin-bottom: 3px" href="http://seller.pcstore.com.tw/S192709666/C1129494296.htm"> 立即購買(pchome)</a>
+
+            <a class="btn btn-secondary btn-lg" style="width: 280px; font-size: 1.8rem;" href="https://shopee.tw/ricky65lue"> 立即購買(蝦皮)</a>
             <br>
             <br>
             <hr>
